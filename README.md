@@ -1,0 +1,2 @@
+# SoftrigTemplates
+Softrig templates
